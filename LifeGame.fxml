@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LifeGameController">
+   <children>
+      <HBox alignment="TOP_RIGHT" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#randomize" prefHeight="103.0" prefWidth="160.0" text="Randomize" />
+            <Button mnemonicParsing="false" onAction="#nextGen" prefHeight="101.0" prefWidth="165.0" text="Next Gen" />
+         </children>
+      </HBox>
+      <Canvas fx:id="canv" height="500.0" width="500.0" />
+   </children>
+</VBox>
