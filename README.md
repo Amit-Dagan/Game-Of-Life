@@ -2,6 +2,12 @@
 
 Welcome to the Life Game Simulation repository! This simple JavaFX application implements Conway's Game of Life, a cellular automaton devised by mathematician John Conway. The game involves a grid of cells that evolve over time based on a set of rules, creating interesting patterns and behaviors.
 
+## Demo
+
+GIF showcasing the application in action.
+
+![Demo](/demo.gif)
+
 ## Getting Started
 
 To run the Life Game Simulation, follow these steps:
@@ -41,12 +47,6 @@ The core logic of the Life Game resides in this class. It manages the state of t
 2. Click the "Next Gen" button to advance the simulation to the next generation.
 
 Feel free to explore the code and customize the application to suit your preferences!
-
-## Demo
-
-GIF showcasing the application in action.
-
-![Demo](/demo.gif)
 
 ## Author
 
