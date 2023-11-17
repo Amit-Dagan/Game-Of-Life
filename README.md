@@ -6,10 +6,11 @@ Welcome to the Life Game Simulation repository! This simple JavaFX application i
 
 To run the Life Game Simulation, follow these steps:
 
-1. Ensure you have Java installed on your machine.
+1. Ensure you have JavaFX installed on your machine.
 2. Clone this repository to your local machine.
 3. Open the project in your favorite Java IDE.
-4. Run the `LifeGame` class to start the simulation.
+4. Add JavaFX in your build path
+5. Run the `LifeGame` class to start the simulation.
 
 ## Features
 
@@ -41,14 +42,14 @@ The core logic of the Life Game resides in this class. It manages the state of t
 
 Feel free to explore the code and customize the application to suit your preferences!
 
-## Screenshots
+## Demo
 
-Include screenshots or GIFs showcasing the application in action.
+GIF showcasing the application in action.
 
 ![Demo](/demo.gif)
 
 ## Author
 
-[Your Name]
+Amit Dagan
 
 If you have any questions or feedback, feel free to reach out. Thank you for checking out the Life Game Simulation!
