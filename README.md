@@ -5,6 +5,7 @@ Welcome to the Life Game Simulation repository! This simple JavaFX application i
 ## Demo
 
 GIF showcasing the application in action.
+
 ![app demo](demo.gif)
 
 
