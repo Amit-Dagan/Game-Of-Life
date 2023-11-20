@@ -5,7 +5,7 @@ Welcome to the Life Game Simulation repository! This simple JavaFX application i
 ## Demo
 
 GIF showcasing the application in action.
-![app demo](https://github.com/Amit-Dagan/Game-Of-Life/print_screens/app demo 1.png)
+![app demo](demo.gif)
 
 
 ## Getting Started
